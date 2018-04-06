@@ -1,5 +1,4 @@
 # DP-Solutions
-Dates and Questions:
-5/4/18 - Candies (hackerrank)
-6/4/18 - Coin Change Problem (hackerrank)
+This repo contains my solutions of Dynamic Programming Problems chosen from various coding platforms like
+geeksforgeeks, hackerrank and interviewbit.
 
