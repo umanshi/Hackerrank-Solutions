@@ -1,4 +1,5 @@
 # DP-Solutions
-5 April 2018 - Candies (Hackerrank)
-6 April 2018 - Coin Change Problem (Hackerrank)
+Dates and Questions:
+5/4/18 - Candies (hackerrank)
+6/5/18 - Coin Change Problem (hackerrank)
 
