@@ -1,3 +1,6 @@
+/* O(N^2) solution for findng the length of Longest Increasing Subsequence 
+ * A better solution with O(NlogN) also exists.
+ */
 #include <bits/stdc++.h>
 #include <iostream>
 using namespace std;
