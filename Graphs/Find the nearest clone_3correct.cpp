@@ -1,3 +1,13 @@
+/*
+Note the proper way to create an adjacency list. On creating
+an array of vectors or a vector of vectors, the problem is 
+that each individual vector may have any arbitrary size
+because you didn't specify it's a zero size vector. So 
+here we are doing precisely that! :)
+
+Look at line niber 25 to 30. All the magic lies there...
+*/
+
 #include <bits/stdc++.h>
 using namespace std;
 vector<string> split_string(string);
