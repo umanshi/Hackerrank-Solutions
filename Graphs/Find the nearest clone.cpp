@@ -37,7 +37,7 @@ int findShortest(int graph_nodes, vector<int> graph_from, vector<int> graph_to, 
     long long dist[graph_nodes+1];
     dist[s] = 0;
     int found = 0;
-    long long c;
+    long long c; 
     while(!q.empty())
     {
         c = q.front();
